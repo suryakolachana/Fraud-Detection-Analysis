@@ -108,7 +108,7 @@ To run this DAG use the Docker to get an Airflow instance up and running locally
 
  2. Clone this repo somewhere locally and navigate to it in your terminal
 
- 3. Navigate to /home/surya/Fraud-Detection-Analysis/docker-airflow Folder.
+ 3. Navigate to /home/user/Fraud-Detection-Analysis/docker-airflow Folder.
 
  4. Please change the ownership by entering command below 
 
